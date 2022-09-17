@@ -1,4 +1,3 @@
-#What is this?
 class Solution(object):
     def generateParenthesis(self, n):
         def generate(A = []):
