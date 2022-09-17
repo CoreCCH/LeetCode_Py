@@ -1,1 +1,1 @@
-For LeetCode Python practice 12
+For LeetCode Python practice12
